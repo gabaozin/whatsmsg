@@ -1,5 +1,5 @@
 # whatsmsg
-Broadcast messages to people who don't have you on their contact list in Whatsapp
+Broadcast messages to people in your contact list, even those who don't have you on their contact list in Whatsapp!
 
 This code will pull Full Names from an Excel Spreadsheet, get the First Names (first words of each item) and allow you to create a personalised message to be sent in Web Whatsapp.  
 
