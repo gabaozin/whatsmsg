@@ -13,4 +13,9 @@ If you find a particular full name to be having trouble locating the specific pe
 
 You can also test results of specific numbers or names on web whatsapp search box manually beforehand.  
 
-I hope this can be helpful to you.
+The code is written in Python 3.8 and the required modules to install are:
+openpyxl
+selenium
+Chromedriver
+
+I hope this will be helpful to you.
