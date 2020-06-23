@@ -1,3 +1,7 @@
+"""
+Disclaimer: This script is just for educational purpose
+"""
+
 #Here is the list of all modules needed for the code to work.
 #You can install selenium and openpyxl using pip.
 
